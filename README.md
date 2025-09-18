@@ -137,5 +137,5 @@ python  main.py -c
 * mac版本提示 [ Error: Unable to access process with pid xxx from the current user account](https://github.com/JaveleyQAQ/WeChatOpenDevTools-Python/issues/49)
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=javeleyqaq/WeChatOpenDevTools-Python&type=Date)](https://star-history.com/#javeleyqaq/WeChatOpenDevTools-Python&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=WxTech2015/WeChatOpenDevTools-Python-2025&type=Date)](https://star-history.com/#javeleyqaq/WeChatOpenDevTools-Python&Date)
 
